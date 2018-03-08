@@ -29,12 +29,13 @@ Sample Command:
 The flags of interest for report are:
 
 ```
-  --cpcodes <cpcode>  Common name to be used to update the certificate/enrollment information in CPS.
-  --dimensions <dimensions> Comma seperated list of CPCODES
-  --metrics <metrics> Comma seperated list of metrics
-  --startDate <Date> Start Date in format MM/DD/YYYY:HH:MM  (Time is in 24 hr format)
-  --endDate <Date> End Date in format MM/DD/YYYY:HH:MM  (Time is in 24 hr format)
-  --format <xlsx/json> Output format. Valid values are xlsx (OR) json
+--cpcodes <cpcode>  Common name to be used to update the certificate/enrollment information in CPS.
+--dimensions <dimensions> Comma seperated list of CPCODES
+--metrics <metrics> Comma seperated list of metrics
+--startDate <Date> Start Date in format MM/DD/YYYY:HH:MM  (Time is in 24 hr format)
+--endDate <Date> End Date in format MM/DD/YYYY:HH:MM  (Time is in 24 hr format)
+--format <xlsx/json> Output format. Valid values are xlsx (OR) json
+  
 ```
 
 
