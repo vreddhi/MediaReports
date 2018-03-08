@@ -21,7 +21,7 @@ Generates a report of download delivery data, based on CPCODES, metrics, dimensi
 
 Sample Command:
 ```bash
-%  python3 media.py -report -cpcodes 586523 -dimensions 2 -metrics 4,21,20,18,28,29,103,113,165,16 -startDate 02/20/2018:20:30 -endDate 02/20/2018:20:45 -format json
+%  python3 mediaReports.py -report -cpcodes 586523 -dimensions 2 -metrics 4,21,20,18,28,29,103,113,165,16 -startDate 02/20/2018:20:30 -endDate 02/20/2018:20:45 -format json
 ```
 
 ```
