@@ -1,0 +1,10 @@
+configparser
+requests
+logging
+json
+edgegrid-pythin
+argparse
+os
+timeit
+Workbook
+csv
